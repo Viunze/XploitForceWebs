@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>XploitForce Official</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #0d0d0d;
+      color: #fff;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      padding: 50px 20px;
+    }
+
+    .logo {
+      font-size: 5rem;
+      margin-bottom: 10px;
+    }
+
+    .title {
+      font-size: 2.5rem;
+      font-weight: bold;
+      color: #00ffff;
+    }
+
+    .desc {
+      font-size: 1.2rem;
+      margin: 20px 0;
+      color: #ccc;
+      max-width: 600px;
+    }
+
+    .btn {
+      display: inline-block;
+      margin: 10px;
+      padding: 12px 24px;
+      font-size: 1rem;
+      color: #fff;
+      background-color: #00ffff;
+      border: none;
+      border-radius: 10px;
+      text-decoration: none;
+      transition: 0.2s;
+    }
+
+    .btn:hover {
+      background-color: #00cccc;
+    }
+
+    footer {
+      margin-top: 50px;
+      font-size: 0.8rem;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="logo">☠️</div>
+  <div class="title">XploitForce</div>
+  <p class="desc">
+    Komunitas script & eksploit Roblox terbesar di Indonesia.<br/>
+    Kami berbagi script, tools, dan tutorial buat para exploiter sejati.
+  </p>
+
+  <a class="btn" href="https://chat.whatsapp.com/CtojhC21NzmHbV2KfmxjjV" target="_blank">Join WhatsApp</a>
+  <a class="btn" href="https://discord.gg/QjsgcpFDDr" target="_blank">Masuk Discord</a>
+
+  <footer>
+    &copy; 2025 XploitForce. Semua hak dilindungi.
+  </footer>
+
+</body>
+</html>
